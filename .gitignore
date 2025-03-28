@@ -1,0 +1,24 @@
+# ignore .mat files
+*.mat
+# ignore figures
+*.fig
+*.png
+*.jpg
+
+# Don't know where this is from but it keeps comming up
+*.DS_Store
+
+# Default good practice MATLAB ignores:
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+/.idea
